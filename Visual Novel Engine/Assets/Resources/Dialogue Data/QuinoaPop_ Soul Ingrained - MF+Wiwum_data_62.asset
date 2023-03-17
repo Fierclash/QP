@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7575e9fc05c02546a8243113d41eaa2, type: 3}
+  m_Name: QuinoaPop_ Soul Ingrained - MF+Wiwum_data_62
+  m_EditorClassIdentifier: 
+  _value:
+    _route: (DON'T) Let Them Eat Cake!
+    _key: 59_Yes
+    _speaker: MF
+    _dialogue: It's not worth it, Wiwum! We're doing this for your own good!
+    _expression: Sad

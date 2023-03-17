@@ -1,0 +1,436 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The pants goblin unfortunately won today. However, that is okay, because you like skirts more anyway. More comfy.",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You sit in the back of a car next to your fellow not-men, Bex, while your other fellow not-men, Sam, rides in the front.",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "What you didn't expect though was an actual man to be driving the car. Wasn't this a Not-Men meeting?",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "He wanted to come and be our fourth.",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Neutral",
+            "text": "And I said he could as long as he drove.",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 9,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 10,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 11,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 12,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 13,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 14,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 15,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 16,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 17,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 18,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 19,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 20,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 21,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 22,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 23,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 24,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 25,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 31,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 32,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 33,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 34,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 35,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 36,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 37,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 38,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 39,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 40,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 41,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 42,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 43,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 44,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 45,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 46,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 47,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 48,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 49,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 50,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 48,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 49,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        },
+        {
+            "id": 50,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "",
+            "choices": ""
+        }
+    ]
+}

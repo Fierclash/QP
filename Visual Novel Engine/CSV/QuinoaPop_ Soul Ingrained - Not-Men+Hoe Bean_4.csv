@@ -1,0 +1,11 @@
+Route Key,"0.00000001% Chance Event: Bex plays VR Phasmaphobia, The Game Pt.3",,,,
+Setting,Phasmophobia Truck,,,,
+ID,Route,Speaker Name,Sprite,Text,Choices
+0,,,,"After taking some very much needed sanity pills, you and Sam grab the equipment you need and get ready to head out.",
+1,,Bex,Sad,"I can't do it, guys. I caaan't. My timbers are shivered.",
+2,,,,You and Sam glance at each other.,
+3,,You,,Sam and I can go in and set everything up. You can keep eye on the cameras.,
+4,,Sam,Neutral,You can also keep an eye on the activity levels.,
+5,,Bex,Sad,Okay...,
+6,,,,"You and Sam leave the truck, fully prepared to punch a ghost.",
+7,,,,"Hopefully, neither of you get punched first.",

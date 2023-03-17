@@ -1,0 +1,132 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "After what you would consider a good, healthy session of dissasociating, you finally join Enoch's world.",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Hey guys, what's up?",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Neutral",
+            "text": "Quinoa!",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "Hey, you made it.",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Neutral",
+            "text": "You were taking a while. Did you have to update?",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "To be honest, you didn't know when your game finished updating. One second you were staring at 2% then all of a sudden the screen read \"CLICK TO BEGIN.\"",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You might've been disassociating longer than it took to update.",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Uh... Yeahhhh...",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "Yeah, this update felt pretty big. Took longer than usual.",
+            "choices": ""
+        },
+        {
+            "id": 9,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Yep! So, are we still doing dailies?",
+            "choices": ""
+        },
+        {
+            "id": 10,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Neutral",
+            "text": "Well, we finished those a while ago and started on weekly bosses.",
+            "choices": ""
+        },
+        {
+            "id": 11,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "Is there one you need? We just finished wolf.",
+            "choices": ""
+        },
+        {
+            "id": 12,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Eh, doesn't really matter.",
+            "choices": ""
+        },
+        {
+            "id": 13,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "",
+            "text": "Raiden?",
+            "choices": ""
+        },
+        {
+            "id": 14,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Good choice.",
+            "choices": ""
+        },
+        {
+            "id": 15,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You all transport to Raiden's domain.",
+            "choices": ""
+        }
+    ]
+}

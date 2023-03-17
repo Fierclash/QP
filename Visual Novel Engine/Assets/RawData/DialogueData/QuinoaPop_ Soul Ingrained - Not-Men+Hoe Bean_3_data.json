@@ -1,0 +1,532 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "Guys, I'm shaking in my boots. This is so much worse than before. I'm scared.",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Angry",
+            "text": "Bro, you've said that five times already and we've only stepped one foot inside the location.",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Angry",
+            "text": "Fuck you, man! Ghosty, supernatural shit gets to me.",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Angry",
+            "text": "Fuckin' baby.",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Angry",
+            "text": "Yes, I am!",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "It's okay, Bex, I will hold your hand.",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "Thank you, Quinoa...",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You hear Sam call in the distance.",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "I think I found the ghost room!",
+            "choices": ""
+        },
+        {
+            "id": 9,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You all venture further inside, the door becoming a distant memory as you all steadily approach impending doom.",
+            "choices": ""
+        },
+        {
+            "id": 10,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "I got freezing temps in here.",
+            "choices": ""
+        },
+        {
+            "id": 11,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Neutral",
+            "text": "Oh, nice.",
+            "choices": ""
+        },
+        {
+            "id": 12,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Neutral",
+            "text": "Okay, so... How do we pull out the journal again to mark it?",
+            "choices": ""
+        },
+        {
+            "id": 13,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "You have to - ",
+            "choices": ""
+        },
+        {
+            "id": 14,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Your vision flickers. You hear a familiar tune sung creepily which can only mean - ",
+            "choices": ""
+        },
+        {
+            "id": 15,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Sad",
+            "text": "Hide, hide, hide!",
+            "choices": ""
+        },
+        {
+            "id": 16,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "Waahh...",
+            "choices": ""
+        },
+        {
+            "id": 17,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Sad",
+            "text": "I don't remember seeing any hiding spots.",
+            "choices": ""
+        },
+        {
+            "id": 18,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "I'm die, thank you forever...",
+            "choices": ""
+        },
+        {
+            "id": 19,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Wait, wait!",
+            "choices": ""
+        },
+        {
+            "id": 20,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Everything stops. You're all alive.",
+            "choices": ""
+        },
+        {
+            "id": 21,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I think it was just a ghost event.",
+            "choices": ""
+        },
+        {
+            "id": 22,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Neutral",
+            "text": "That was a close. What setting do we have this on? Because I swear there's basically zero places we can hide.",
+            "choices": ""
+        },
+        {
+            "id": 23,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "I'm pretty sure we put it to Professional. We tried Nightmare without Mike once and oof... ",
+            "choices": ""
+        },
+        {
+            "id": 24,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "I'd like to go on record that I am not a professional and very much unqualified, so I think I should leave. You guys agree? Cool, I'll just - ",
+            "choices": ""
+        },
+        {
+            "id": 25,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Neutral",
+            "text": "No, no, no. You're staying. We're all in this together.",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "We should go back though. At least to check our sanity and maybe get a crucifix.",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "That makes sense. I want to grab a UV stick too.",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Happy",
+            "text": "So we're leaving.",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Neutral",
+            "text": "For now. ",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Happy",
+            "text": "Regardless, we're leaving.",
+            "choices": ""
+        },
+        {
+            "id": 31,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "Where was the exit again?",
+            "choices": ""
+        },
+        {
+            "id": 32,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I got it. Follow me, tomodachi.",
+            "choices": ""
+        },
+        {
+            "id": 33,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You lead your group toward safety, away from the darkness, to take temporary solace in the truck.",
+            "choices": ""
+        },
+        {
+            "id": 34,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "However, as you pass through the doors -",
+            "choices": ""
+        },
+        {
+            "id": 35,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "WAAHHHH!!",
+            "choices": ""
+        },
+        {
+            "id": 36,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You turn around to see the door closed on Bex.",
+            "choices": ""
+        },
+        {
+            "id": 37,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "More specifically, Hoe Bean closing the door on Bex.",
+            "choices": ""
+        },
+        {
+            "id": 38,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Happy",
+            "text": "That's so fucked up!",
+            "choices": ""
+        },
+        {
+            "id": 39,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Happy",
+            "text": "Hehehehehe.",
+            "choices": ""
+        },
+        {
+            "id": 40,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "Hhhhhhh....",
+            "choices": ""
+        },
+        {
+            "id": 41,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "It's not a hunt! You can open the door.",
+            "choices": ""
+        },
+        {
+            "id": 42,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "Hhhhhhhhhhhhhhhhhh...",
+            "choices": ""
+        },
+        {
+            "id": 43,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The door opens, revealing a traumatized Bex. Well, you assume anyway. These models are wacky. You hope they never change.",
+            "choices": ""
+        },
+        {
+            "id": 44,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "She sprints forward, wanting as much distance between her and the door as possible.",
+            "choices": ""
+        },
+        {
+            "id": 45,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "I hate this fucking game.",
+            "choices": ""
+        },
+        {
+            "id": 46,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Happy",
+            "text": "Ha, fuckin' loser.",
+            "choices": ""
+        },
+        {
+            "id": 47,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Angry",
+            "text": "Fuck you! You get in there. I'll shut the door on your face. See how you like it!",
+            "choices": ""
+        },
+        {
+            "id": 48,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Happy",
+            "text": "Yeah? It's not like I'll be screaming like you though.",
+            "choices": ""
+        },
+        {
+            "id": 49,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Angry",
+            "text": "Fuck you.",
+            "choices": ""
+        },
+        {
+            "id": 50,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You watch Hoe Bean sprint inside and dance in the doorway - Well, I guess crouch and stand repeatedly by the doorway?",
+            "choices": ""
+        },
+        {
+            "id": 51,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Happy",
+            "text": "Oooooh, ghosty, you wanna come out so bad, ooooooh. Everyone knows your gay anyway!",
+            "choices": ""
+        },
+        {
+            "id": 52,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The door shuts.",
+            "choices": ""
+        },
+        {
+            "id": 53,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Happy",
+            "text": "Did you shut the door on him?",
+            "choices": ""
+        },
+        {
+            "id": 54,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Neutral",
+            "text": "No, I -",
+            "choices": ""
+        },
+        {
+            "id": 55,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Sad",
+            "text": "AHH, WHAT THE FU - ",
+            "choices": ""
+        },
+        {
+            "id": 56,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The door opens. Hoe Bean's dead body lies in front of it. Ass up with no dignity.",
+            "choices": ""
+        },
+        {
+            "id": 57,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Happy",
+            "text": "Oh, shit!",
+            "choices": ""
+        },
+        {
+            "id": 58,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Damn, the ghost didn't like that one.",
+            "choices": ""
+        },
+        {
+            "id": 59,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Happy",
+            "text": "Deserved.",
+            "choices": ""
+        },
+        {
+            "id": 60,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "Is the ghost homophobic?",
+            "choices": ""
+        },
+        {
+            "id": 61,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Maybe like a closeted homophobe, ya know?",
+            "choices": ""
+        },
+        {
+            "id": 62,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "Oh, yeah. Probably still working it out.",
+            "choices": ""
+        },
+        {
+            "id": 63,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "A moment of silence passes as you all stare at the ghost's handiwork of Hoe Bean's ass. You wonder is this is gonna be a trend. ",
+            "choices": ""
+        },
+        {
+            "id": 64,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Oh, right.",
+            "choices": ""
+        },
+        {
+            "id": 65,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You quickly snap a phot of Hoe Bean's dead body.",
+            "choices": ""
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+Route Key,"0.00000001% Chance Event: Bex plays VR Phasmaphobia, The Game Pt.1",,,,
+Setting,Phasmophobia Truck,,,,
+ID,Route,Speaker Name,Sprite,Text,Choices
+0,,Bex,Sad,I already hate this.,
+1,,Hoe Bean,Neutral,We just loaded into the truck.,
+2,,Bex,Angry,AND?,
+3,,You,,Everyone grab your virginity helmets!,
+4,,Sam,Happy,"Oh yeah, how could we forget? I'll get the keys too. Is everyone ready?",
+5,,Bex,Sad,No.,
+6,,Hoe Bean,Happy,Yes!,
+7,,You,,I'm gonna punch a ghost!,
+8,,Sam,Happy,"Alright, everybody, hold hands and let's go!",

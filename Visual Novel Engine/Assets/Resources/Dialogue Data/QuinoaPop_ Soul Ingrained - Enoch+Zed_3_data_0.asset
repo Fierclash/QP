@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7575e9fc05c02546a8243113d41eaa2, type: 3}
+  m_Name: QuinoaPop_ Soul Ingrained - Enoch+Zed_3_data_0
+  m_EditorClassIdentifier: 
+  _value:
+    _route: 'How to Meta Game 101: Quinoa''s Training Arc, Round 2'
+    _key: 0_O
+    _speaker: 
+    _dialogue: And somehow in some cruel way, all your tomodachi perish, leaving
+      you as the sole survivor... again.
+    _expression: 

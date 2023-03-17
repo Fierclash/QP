@@ -1,0 +1,948 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "For the sake of this storyline, you do still have your flute and you bring it with you to Carlos' place.",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "When you arrive, Michael immediately drags you to Carlos' room without any explanation.",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You are greeted by a sorry sight.",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Carlos is hunched over at his desk, a dazed look in his eyes. His monitor displays an unfinished song in Fruity Loops.",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "A single, downright awful note repeats itself over and over again. It's the only sound that fills the room besides an occasional -",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Sad",
+            "text": "Ehhhhh....",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "- from Carlos... A broken man.",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "... Is he okay?",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Neutral",
+            "text": "Does this look okay?",
+            "choices": ""
+        },
+        {
+            "id": 9,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "No, not at all.",
+            "choices": ""
+        },
+        {
+            "id": 10,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "In fact, the whole room felt dismal save for Misha sleeping peacefully on Carlos' bed, comfy and all sprawled out as if she owned the whole space.",
+            "choices": ""
+        },
+        {
+            "id": 11,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You very much want to pet her, but first you must rescue your good friend from this sticky glue hell. Plus, he probably wants her to stay asleep. The cute little troublemaker.",
+            "choices": ""
+        },
+        {
+            "id": 12,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Mike pauses the \"music,\" providing temporary solace from the mindnumbing loop.",
+            "choices": ""
+        },
+        {
+            "id": 13,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Neutral",
+            "text": "Alright, guy, let's take a minute.",
+            "choices": ""
+        },
+        {
+            "id": 14,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Sad",
+            "text": "I can't bro... I can't... I'm overloaded...",
+            "choices": ""
+        },
+        {
+            "id": 15,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Angry",
+            "text": "WITH FUCKING GLUE! Nothing is working but all I got is GLUE but it AIN'T RIGHT so it's just GLUE ON SHIT GLUE ON MORE GLUE and I'm MAD ON MAD ON MAD.",
+            "choices": ""
+        },
+        {
+            "id": 16,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Sad",
+            "text": "I know, bro... I know.",
+            "choices": ""
+        },
+        {
+            "id": 17,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Happy",
+            "text": "But it's okay now because Quinoa is here with her flute.",
+            "choices": ""
+        },
+        {
+            "id": 18,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Mike gestures toward you. You happily wave your flute in response.",
+            "choices": ""
+        },
+        {
+            "id": 19,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Happy",
+            "text": "Quinoa! This is perfect!",
+            "choices": ""
+        },
+        {
+            "id": 20,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Wait, so... you guys are making glue music?",
+            "choices": ""
+        },
+        {
+            "id": 21,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Sad",
+            "text": "Yep...",
+            "choices": ""
+        },
+        {
+            "id": 22,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Sad",
+            "text": "Yeah...",
+            "choices": ""
+        },
+        {
+            "id": 23,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Why?",
+            "choices": ""
+        },
+        {
+            "id": 24,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Neutral",
+            "text": "Because we love it, duh. C'mon, Quinoa, I thought you knew us well.",
+            "choices": ""
+        },
+        {
+            "id": 25,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "He sounds an uncle of a friend of yours.",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "You always say, \"TURN THAT SHIT OFF,\" whenever it's playing though.",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Happy",
+            "text": "Whaaaaa? Haha, pfft, I've never said that. What are you talking aboooout... Hahaha... Right, Mike?",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Happy",
+            "text": "Yeah!",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Sad",
+            "text": "Come on, Quinoa, putting words in your friends' mouths now? Kinda fucked up.",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Sad",
+            "text": "Yeah, Quinoa, why would you do that? Being a real meanie bombinie right now...",
+            "choices": ""
+        },
+        {
+            "id": 31,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Nooooo...",
+            "choices": ""
+        },
+        {
+            "id": 32,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Angry",
+            "text": "Can't we just make music in peace without being JUDGED?",
+            "choices": ""
+        },
+        {
+            "id": 33,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Of course, you can! I just - ",
+            "choices": ""
+        },
+        {
+            "id": 34,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Happy",
+            "text": "Cool! Then let's get to playing that flute.",
+            "choices": ""
+        },
+        {
+            "id": 35,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Happy",
+            "text": "Alright, bro, I'm ready. You can start whenever, Quinoa.",
+            "choices": ""
+        },
+        {
+            "id": 36,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "What? I haven't played this in years!",
+            "choices": ""
+        },
+        {
+            "id": 37,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Neutral",
+            "text": "Nah, you got this. Just try! It'll be like riding a bike.",
+            "choices": ""
+        },
+        {
+            "id": 38,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "If there was an X button in the game, you would press it to Doubt. However, you get options instead.",
+            "choices": "Rembr flute skills / Forgor flute skills"
+        },
+        {
+            "id": 39,
+            "route": "Rembr flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You feel your braincells multiply.",
+            "choices": ""
+        },
+        {
+            "id": 40,
+            "route": "Rembr flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "It's happening.",
+            "choices": ""
+        },
+        {
+            "id": 41,
+            "route": "Rembr flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You're...",
+            "choices": ""
+        },
+        {
+            "id": 42,
+            "route": "Rembr flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Rembring!!!!",
+            "choices": ""
+        },
+        {
+            "id": 43,
+            "route": "Rembr flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You ready your flute and play your first note. Any doubt you had previously dissipates as you realize Carlos was right.",
+            "choices": ""
+        },
+        {
+            "id": 44,
+            "route": "Rembr flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You had flute skills this entire time! All you had to do was believe in the heart of your instrument.",
+            "choices": ""
+        },
+        {
+            "id": 45,
+            "route": "Rembr flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You freestyle the most beautiful melody. Completely possessed by the flute in your hands, you let it all out, translating its soul to the language everyone speaks - music.",
+            "choices": ""
+        },
+        {
+            "id": 46,
+            "route": "Rembr flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Mike and Carlos stand slackjaw in awe, witnessing the pure passion of your flute playing.",
+            "choices": ""
+        },
+        {
+            "id": 47,
+            "route": "Rembr flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "When you reach the end, you know you've just made your magnum opus as a flute player.",
+            "choices": ""
+        },
+        {
+            "id": 48,
+            "route": "Rembr flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "After a beat of silence, your friends cheer.",
+            "choices": ""
+        },
+        {
+            "id": 49,
+            "route": "Rembr flute skills",
+            "speakerName": "Carlos",
+            "sprite": "Happy",
+            "text": "Yeaaahhh! Quinoaaaa!!",
+            "choices": ""
+        },
+        {
+            "id": 50,
+            "route": "Rembr flute skills",
+            "speakerName": "Mike",
+            "sprite": "Happy",
+            "text": "Wooooooo!",
+            "choices": ""
+        },
+        {
+            "id": 51,
+            "route": "Rembr flute skills",
+            "speakerName": "Mike",
+            "sprite": "Happy",
+            "text": "Since when did you know how to play like that?",
+            "choices": ""
+        },
+        {
+            "id": 52,
+            "route": "Rembr flute skills",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "No clue. It just kinda happened.",
+            "choices": ""
+        },
+        {
+            "id": 53,
+            "route": "Rembr flute skills",
+            "speakerName": "Carlos",
+            "sprite": "Happy",
+            "text": "And to think you doubted me. That was perfect.",
+            "choices": ""
+        },
+        {
+            "id": 54,
+            "route": "Rembr flute skills",
+            "speakerName": "Carlos",
+            "sprite": "Neutral",
+            "text": "... Perfect.",
+            "choices": ""
+        },
+        {
+            "id": 55,
+            "route": "Rembr flute skills",
+            "speakerName": "Carlos",
+            "sprite": "Sad",
+            "text": "It was perfect...",
+            "choices": ""
+        },
+        {
+            "id": 56,
+            "route": "Rembr flute skills",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Uh... Is that bad?",
+            "choices": ""
+        },
+        {
+            "id": 57,
+            "route": "Rembr flute skills",
+            "speakerName": "Mike",
+            "sprite": "Neutral",
+            "text": "Bro, you okay?",
+            "choices": ""
+        },
+        {
+            "id": 58,
+            "route": "Rembr flute skills",
+            "speakerName": "Carlos",
+            "sprite": "Sad",
+            "text": "No, bro, it was perfect but it wasn't GLUE!",
+            "choices": ""
+        },
+        {
+            "id": 59,
+            "route": "Rembr flute skills",
+            "speakerName": "Carlos",
+            "sprite": "Angry",
+            "text": "IT AIN'T GLUE.",
+            "choices": ""
+        },
+        {
+            "id": 60,
+            "route": "Rembr flute skills",
+            "speakerName": "Mike",
+            "sprite": "Neutral",
+            "text": "No, no, hold on, we can still work with this though.",
+            "choices": ""
+        },
+        {
+            "id": 61,
+            "route": "Rembr flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Mike replays your flute solo and records his vocals over it, his wavy singing voice going off-key.",
+            "choices": ""
+        },
+        {
+            "id": 62,
+            "route": "Rembr flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You chime in with your own mouth noises, throwing in the occasional beatbox for good measure.",
+            "choices": ""
+        },
+        {
+            "id": 63,
+            "route": "Rembr flute skills",
+            "speakerName": "Carlos",
+            "sprite": "Neutral",
+            "text": "Okay, okay... Actually, this works. We can do this. Let me just save super quick.",
+            "choices": ""
+        },
+        {
+            "id": 39,
+            "route": "Forgor flute skills",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You call forth braincells, searching for the one with flute skills. Three approach you. Each one holds crocheting, twink ranking, and pretty pink women respectively. ",
+            "choices": ""
+        },
+        {
+            "id": 40,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "None of these are flute skills. You ask where the flute skills are. They respond that they tossed it to make room for Claude. Valid.",
+            "choices": ""
+        },
+        {
+            "id": 41,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The first note you play is awful. God. Awful.",
+            "choices": ""
+        },
+        {
+            "id": 42,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You watch Carlos and Mike visibly cringe at whatever the fuck sort of sound you managed to create. Are flutes suppose to sound like this? ",
+            "choices": ""
+        },
+        {
+            "id": 43,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You finally reach the end, feeling relief in the silence. ",
+            "choices": ""
+        },
+        {
+            "id": 44,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Neutral",
+            "text": "Well, that was awful.",
+            "choices": ""
+        },
+        {
+            "id": 45,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "It was.",
+            "choices": ""
+        },
+        {
+            "id": 46,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Neutral",
+            "text": "Very. Very bad.",
+            "choices": ""
+        },
+        {
+            "id": 47,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Happy",
+            "text": "But perfect for what we're trying to do here!",
+            "choices": ""
+        },
+        {
+            "id": 48,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Neutral",
+            "text": "That was some perfect glue you just made, Quinoa",
+            "choices": ""
+        },
+        {
+            "id": 49,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Really?",
+            "choices": ""
+        },
+        {
+            "id": 50,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Neutral",
+            "text": "Yes, we are one step closer to ending this glue overload of suffering.",
+            "choices": ""
+        },
+        {
+            "id": 51,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Happy",
+            "text": "You think you got it, bro?",
+            "choices": ""
+        },
+        {
+            "id": 52,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Neutral",
+            "text": "Oh, yes. Get your sound on there, brother.",
+            "choices": ""
+        },
+        {
+            "id": 53,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Mike records his signature wavy singing with an occassional mouth noise sprinkled in there.",
+            "choices": ""
+        },
+        {
+            "id": 54,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Everything slowly starts coming together until you are all left with perfectly authentic, mindnumbing glue music.",
+            "choices": ""
+        },
+        {
+            "id": 55,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Wiwum would be proud. You wonder what flavor he would dub it.",
+            "choices": ""
+        },
+        {
+            "id": 56,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Happy",
+            "text": "Dude, I think we got it.",
+            "choices": ""
+        },
+        {
+            "id": 57,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Happy",
+            "text": "Holy shit.",
+            "choices": ""
+        },
+        {
+            "id": 58,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "We did it!",
+            "choices": ""
+        },
+        {
+            "id": 64,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Carlos hits the save button.",
+            "choices": ""
+        },
+        {
+            "id": 65,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You all watch the percentage grow to 98%.",
+            "choices": ""
+        },
+        {
+            "id": 66,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "And stay at 98%.",
+            "choices": ""
+        },
+        {
+            "id": 67,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "... Should we be concerned?",
+            "choices": ""
+        },
+        {
+            "id": 68,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Neutral",
+            "text": "No, of course not.",
+            "choices": ""
+        },
+        {
+            "id": 69,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Angry",
+            "text": "Why would you say that?",
+            "choices": ""
+        },
+        {
+            "id": 70,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Angry",
+            "text": "Get that negativity out of here, Quinoa.",
+            "choices": ""
+        },
+        {
+            "id": 71,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Sorry, sorry, I take it back.",
+            "choices": ""
+        },
+        {
+            "id": 72,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "It climbs to 99%.",
+            "choices": ""
+        },
+        {
+            "id": 73,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Happy",
+            "text": "Woah!",
+            "choices": ""
+        },
+        {
+            "id": 74,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Happy",
+            "text": "Oh, shit!",
+            "choices": ""
+        },
+        {
+            "id": 75,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Sad",
+            "text": "Damn, Quinoa, it really was your negativity.",
+            "choices": ""
+        },
+        {
+            "id": 76,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Sad",
+            "text": "You prayin' on our downfall, Quinoa?",
+            "choices": ""
+        },
+        {
+            "id": 77,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "What? No!",
+            "choices": ""
+        },
+        {
+            "id": 78,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Suddenly, Carlos' PC shuts off. The room is enveloped in darkness, literally and metaphorically.",
+            "choices": ""
+        },
+        {
+            "id": 79,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Neutral",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 80,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Neutral",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 81,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 82,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Neutral",
+            "text": "Did you eat hot chip today, Quinoa?",
+            "choices": ""
+        },
+        {
+            "id": 83,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "... Maybe.",
+            "choices": ""
+        },
+        {
+            "id": 84,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Angry",
+            "text": "AAAAAAAAHHHHHHHHHHHHHHH!!!",
+            "choices": ""
+        },
+        {
+            "id": 85,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Mike and Carlos act quickly to reboot the PC and pray to every God possibly out there that all your guys' hard work managed to save in time.",
+            "choices": ""
+        },
+        {
+            "id": 86,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Your left by yourself for a moment, watching the chaos unfold, when you see Misha approach you, having awoken from her nap due to Carlos' sudden outburst.",
+            "choices": ""
+        },
+        {
+            "id": 87,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "She looks up at you with those big hopeful puppy eyes that just scream, \"Pet, pet, pet.\"",
+            "choices": "Pet Gently / Pet Petly"
+        },
+        {
+            "id": 88,
+            "route": "Pet Gently",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Entranced, you give her a gentle pat on the head.",
+            "choices": ""
+        },
+        {
+            "id": 88,
+            "route": "Pet Petly",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Entranced, you give her a little scratch under her chin.",
+            "choices": ""
+        },
+        {
+            "id": 89,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You continue giving her pets, amping up her happy but unknowingly revving up her excitement.",
+            "choices": ""
+        },
+        {
+            "id": 90,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "She jumps around cutely, unable to contain herself, before jumping on the floor.",
+            "choices": ""
+        },
+        {
+            "id": 91,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Angry",
+            "text": "The shits not opening, Mike!",
+            "choices": ""
+        },
+        {
+            "id": 92,
+            "route": "",
+            "speakerName": "Mike",
+            "sprite": "Angry",
+            "text": "Hold on, what if we -",
+            "choices": ""
+        },
+        {
+            "id": 93,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The PC shuts off again. However, instead of silence, the sound of a gentle stream fills the room.",
+            "choices": ""
+        },
+        {
+            "id": 94,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You all look at Misha who is squated near the PC, a pool of pee expanding below her.",
+            "choices": ""
+        },
+        {
+            "id": 95,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You feel this might be a bit of your fault, especially when Carlos turns his head toward you, seeing you in mid-pet position before Misha deserted you.",
+            "choices": ""
+        },
+        {
+            "id": 96,
+            "route": "",
+            "speakerName": "Carlos",
+            "sprite": "Angry",
+            "text": "QUINOOOAAAAAA!",
+            "choices": ""
+        }
+    ]
+}

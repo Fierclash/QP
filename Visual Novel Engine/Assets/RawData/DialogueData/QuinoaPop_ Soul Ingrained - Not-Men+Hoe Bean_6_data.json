@@ -1,0 +1,500 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You all find Bex in truck, desperately speaking into the radio.",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "Hellooooo.... Tomodachi... Did you perish?",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You all drop your objects. Hoe Bean found a spray can, Sam found a cup, and you managed to find a cat photo.",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "Aw, man. Does that mean I have to go in there? I'm not good at this! We all know I'll die!",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Hoe Bean aggressively throws his spray can at Bex.",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Angry",
+            "text": "It's not like we have much of a choice. We have nothing!",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "Yeah, I can't really identify ghosts by behavior just yet. Any ideas, Quinoa?",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Oof, I dunno. I gotta tap into my inner Mike.",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "Okay, okay... glowstick for yes and flashlight for no. Do I need to go in there?",
+            "choices": ""
+        },
+        {
+            "id": 9,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Hoe Bean immediately tosses his spray can on the glowstick.",
+            "choices": ""
+        },
+        {
+            "id": 10,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Angry",
+            "text": "Bitch, I know it's you praying on my fucking downfall. You were too quick.",
+            "choices": ""
+        },
+        {
+            "id": 11,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Happy",
+            "text": "Heh.",
+            "choices": ""
+        },
+        {
+            "id": 12,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Happy",
+            "text": "You're so mean. ",
+            "choices": ""
+        },
+        {
+            "id": 13,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "But, honestly, it might not even be worth going in. We could just guess and leave.",
+            "choices": ""
+        },
+        {
+            "id": 14,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Sam drops their cup on the flashlight.",
+            "choices": ""
+        },
+        {
+            "id": 15,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Happy",
+            "text": "Sam? I love you.",
+            "choices": ""
+        },
+        {
+            "id": 16,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Hoe Bean and Sam look at you. You're the tie breaker.",
+            "choices": ""
+        },
+        {
+            "id": 17,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "Anything?",
+            "choices": ""
+        },
+        {
+            "id": 18,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "What would Mike do? No! This isn't his story, it's yours! What would you do, Quinoa?",
+            "choices": "Glowstick / Flashlight"
+        },
+        {
+            "id": 19,
+            "route": "Glowstick",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You drop your cat photo on the glowstick.",
+            "choices": ""
+        },
+        {
+            "id": 20,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "You hate me, Quinoa. Oh fuck, okay, what am I suppose to bring?",
+            "choices": ""
+        },
+        {
+            "id": 21,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You all haphazardly toss your objects at equipment.",
+            "choices": ""
+        },
+        {
+            "id": 22,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Angry",
+            "text": "I fucking hate it here.",
+            "choices": ""
+        },
+        {
+            "id": 23,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Somehow and in some cruel way, Bex lives the longest out of all of you. You're quite proud, cheering on your tomodachi by tossing your cat photo in the air. ",
+            "choices": ""
+        },
+        {
+            "id": 24,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Bex isn't so happy about it though, crying the whole time, just saying how much they crave death at this moment. You all think the ghost is trying to spite them.",
+            "choices": ""
+        },
+        {
+            "id": 25,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "With the amount of false alarms, you're lead to think it's an Oni.",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "But then you get ghost writing.",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Then Bex walks by with a UV light and you spot fingerprints which can only mean one thing.",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You guys are fucked. Ass up. No dignity. By a fucking demon. Fucked.",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Past tense.",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "See how the truck is empty right now?",
+            "choices": ""
+        },
+        {
+            "id": 31,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You're all dead.",
+            "choices": ""
+        },
+        {
+            "id": 19,
+            "route": "Flashlight",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You drop your cat photo on the flashlight.",
+            "choices": ""
+        },
+        {
+            "id": 20,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Happy",
+            "text": "Bless my mighty not-men, so what are we guessing then?",
+            "choices": ""
+        },
+        {
+            "id": 21,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "That is a very good question.",
+            "choices": ""
+        },
+        {
+            "id": 22,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Neutral",
+            "text": "I got no clue. Do we even have anything in there?",
+            "choices": ""
+        },
+        {
+            "id": 23,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "It started hunting the minute Quinoa and I got there, so we couldn't really set up.",
+            "choices": ""
+        },
+        {
+            "id": 24,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I was going to but it kept doing events when I thought it was hunting so I'd hide and the one time I didn't hide it was an actual hunt.",
+            "choices": ""
+        },
+        {
+            "id": 25,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Neutral",
+            "text": "Unlucky.",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "We could cross off spirit box though.",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "Well, that just leaves us with... A lot.",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You all sit and ponder.",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Well, it's really active so it makes me think it could be an Oni with all those events. They kinda just like to scare you. They're assholes like that.",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Neutral",
+            "text": "Oni then?",
+            "choices": ""
+        },
+        {
+            "id": 31,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Hmm... ",
+            "choices": ""
+        },
+        {
+            "id": 32,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "It makes sense, but something in your gut says no... It says...",
+            "choices": ""
+        },
+        {
+            "id": 33,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Demon.",
+            "choices": ""
+        },
+        {
+            "id": 34,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "Demon?",
+            "choices": ""
+        },
+        {
+            "id": 35,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Yeah.",
+            "choices": ""
+        },
+        {
+            "id": 36,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Happy",
+            "text": "Okay, fuck it, let's do demon.",
+            "choices": ""
+        },
+        {
+            "id": 37,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Happy",
+            "text": "Now, we just have to tell them.",
+            "choices": ""
+        },
+        {
+            "id": 38,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Happy",
+            "text": "c:",
+            "choices": ""
+        },
+        {
+            "id": 39,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "... Don't worry you all manage to do it.",
+            "choices": ""
+        },
+        {
+            "id": 40,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "And you're right!",
+            "choices": ""
+        },
+        {
+            "id": 41,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "See, Quinoa, you should have more confidence in yourself and listen to your gut more often. Look at you. So proud. Fucking gamer.",
+            "choices": ""
+        },
+        {
+            "id": 42,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You all reload into a new game.",
+            "choices": ""
+        },
+        {
+            "id": 43,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "We're really doing this again?",
+            "choices": ""
+        },
+        {
+            "id": 44,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Happy",
+            "text": "Hey, we paid for an hour.",
+            "choices": ""
+        },
+        {
+            "id": 45,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Happy",
+            "text": "And we got 48 more minutes left.",
+            "choices": ""
+        },
+        {
+            "id": 46,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "Fucking gamer...",
+            "choices": ""
+        },
+        {
+            "id": 47,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Don't worry, you guys do a lot better in the next few rounds.",
+            "choices": ""
+        },
+        {
+            "id": 48,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "By the end of it, you all end up having a good time. All. Definitely all. Yup.",
+            "choices": ""
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The moment you and Sam step inside, your vision flickers.",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Angry",
+            "text": "Already?",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Event?",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You both hear a groan. A figure stands before you two.",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "It's getting closer.",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Sad",
+            "text": "Nope. Hide!",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Sam, over here!",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You try your best to lead Sam to what you though could be a good hiding spot. You don't even know if they're still following you.",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Everything stops once more.",
+            "choices": ""
+        },
+        {
+            "id": 9,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Sam?",
+            "choices": ""
+        },
+        {
+            "id": 10,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You search and find a gruesome display.",
+            "choices": ""
+        },
+        {
+            "id": 11,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Sam's model. Dead. Ass up. No dignity.",
+            "choices": ""
+        },
+        {
+            "id": 12,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "It is a trend.",
+            "choices": ""
+        },
+        {
+            "id": 13,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You hear Bex radio in.",
+            "choices": ""
+        },
+        {
+            "id": 14,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "",
+            "text": "Soooo.... Activity spiked up for a moment. Are you guys okay?",
+            "choices": ""
+        },
+        {
+            "id": 15,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Uh, well, Sam's dead.",
+            "choices": ""
+        },
+        {
+            "id": 16,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "",
+            "text": "Nooo.... Aw man... Do you need me in there?",
+            "choices": ""
+        },
+        {
+            "id": 17,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "It's okay. There should be a cooldown, so I think I'll be okay for a minute.",
+            "choices": ""
+        },
+        {
+            "id": 18,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "And you were. For exactly a minute.",
+            "choices": ""
+        },
+        {
+            "id": 19,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "A few false alarms lured you to a sense of security and now you're dead. Ass up. With no dignity.",
+            "choices": ""
+        },
+        {
+            "id": 20,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "But at the very least, you are with the rest of your dead tomodachi.",
+            "choices": ""
+        },
+        {
+            "id": 21,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Hi, friends.",
+            "choices": ""
+        },
+        {
+            "id": 22,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Neutral",
+            "text": "Hey.",
+            "choices": ""
+        },
+        {
+            "id": 23,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "Hi, Quinoa. Were you able to get anything?",
+            "choices": ""
+        },
+        {
+            "id": 24,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "No.",
+            "choices": ""
+        },
+        {
+            "id": 25,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "So that means -",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Yep.",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Neutral",
+            "text": "We're fucked.",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You all grab a little item to communicate with and venture back to the truck, defeated and a little hopeless.",
+            "choices": ""
+        }
+    ]
+}

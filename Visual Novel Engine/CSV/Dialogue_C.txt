@@ -1,0 +1,4 @@
+C,Background C
+0,Wiwum,Neutral,Hello
+1,Wiwum,Angry,Fuck you
+2,Wiwum,Happy,Thank you

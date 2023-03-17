@@ -1,0 +1,4 @@
+A,Background A
+0,Carlos,Neutral,Hello
+1,Carlos,Angry,Fuck you
+2,Carlos,Happy,Thank you

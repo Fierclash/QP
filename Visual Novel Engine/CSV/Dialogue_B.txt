@@ -1,0 +1,4 @@
+B,Background B
+0,Sam,Neutral,Hello
+1,Sam,Angry,Fuck you
+2,Sam,Happy,Thank you

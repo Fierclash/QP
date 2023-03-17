@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c11db966ac57f4396e99480a7d40f6, type: 3}
+  m_Name: QuinoaPop_ Soul Ingrained - Enoch+Zed_3_data_SubKeys
+  m_EditorClassIdentifier: 
+  _value:
+    _route: 'How to Meta Game 101: Quinoa''s Training Arc, Round 2'
+    _keys:
+    - 0_O
+    - 1_O
+    - 2_O
+    - 3_O
+    - 4_O
+    - 5_O
+    - 6_O
+    - 7_O
+    - 8_O
+    - 9_O
+    - 10_O
+    - 11_O
+    - 12_O
+    - 13_O
+    - 14_O
+    - 15_O
+    - 16_O
+    - 17_O
+    - 18_O
+    - 19_O
+    - 20_O
+    - 21_O
+    - 22_O
+    - 23_O
+    - 24_O
+    - 25_O
+    - 26_Abandon
+    - 26_IKUYO
+    - 27_IKUYO
+    - 28_O
+    - 29_O
+    - 30_O
+    - 31_O
+    - 32_O
+    - 33_O
+    - 34_O
+    - 35_O

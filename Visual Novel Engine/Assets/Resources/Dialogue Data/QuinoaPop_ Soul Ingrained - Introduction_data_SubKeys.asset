@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c11db966ac57f4396e99480a7d40f6, type: 3}
+  m_Name: QuinoaPop_ Soul Ingrained - Introduction_data_SubKeys
+  m_EditorClassIdentifier: 
+  _value:
+    _route: Introduction
+    _keys:
+    - 0_O
+    - 1_O
+    - 2_Maryann
+    - 3_Maryann
+    - 4_Maryann
+    - 5_Maryann
+    - 6_Maryann
+    - 7_Maryann
+    - 2_Quinoa
+    - 3_Quinoa
+    - 8_O
+    - 9_O
+    - 10_O
+    - 11_O
+    - 12_O
+    - 13_O
+    - 14_O
+    - 15_O
+    - 16_O
+    - 17_O
+    - 18_O
+    - 19_O
+    - 20_O
+    - 21_O
+    - 22_O
+    - 23_O
+    - 24_O
+    - 25_O
+    - 26_MF
+    - 27_MF
+    - 28_MF
+    - 29_MF
+    - 30_MF
+    - 31_MF
+    - 32_MF
+    - 33_MF
+    - 34_MF
+    - 35_MF
+    - 36_MF
+    - 37_MF
+    - 26_Enoch
+    - 27_Enoch
+    - 28_Enoch
+    - 29_Enoch
+    - 30_Enoch
+    - 31_Enoch
+    - 26_Mike
+    - 27_Mike
+    - 28_Mike
+    - 29_Mike
+    - 30_Mike
+    - 31_Mike
+    - 32_Mike
+    - 33_Mike
+    - 34_Mike
+    - 26_Bex
+    - 27_Bex
+    - 28_Bex
+    - 29_Bex
+    - 30_Bex
+    - 31_Bex
+    - 32_Bex
+    - 33_Bex

@@ -1,0 +1,844 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "After somehow deciphering John's incoherent texts, you find yourself standing at the edge of John's kitchen, mortified at the display before you.",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "There are eggs splattered on the walls. There's a blackened spot on the ceiling which you could only assume is a remnant of a fire but... How? It's not even above the stove!",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "A broken skillet lays on the floor with its handle embedded in the wall. A corner of the counter is missing, unable to be found on the floor, walls, or ceiling.",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The only victor in this post-war wasteland is a chocolate cake sitting in the center of it all on the kitchen island. You swear its sparkling.",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "John stands protectively in front of the stove, holding a carton of eggs. Across from him stands William wielding a frying pan.",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The only thing that stands between the two is the kitchen island, the triumphant cake in the middle of their standoff.",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "MF versus three raccoons in a trenchcoat.",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Neutral",
+            "text": "Wiwum... Let's be civil... We can talk about this, right?",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Neutral",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 9,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "William raises the frying pan.",
+            "choices": ""
+        },
+        {
+            "id": 10,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Neutral",
+            "text": "Wiwum.",
+            "choices": ""
+        },
+        {
+            "id": 11,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Neutral",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 12,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Neutral",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 13,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Angry",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 14,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Angry",
+            "text": "WIIIIWWUUUUUUMMM!!",
+            "choices": ""
+        },
+        {
+            "id": 15,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "William jumps over the kitchen island, somehow clearing the cake as well, preserving its pristine form. John shrieks as he witnesses an airborne Wiwum,",
+            "choices": ""
+        },
+        {
+            "id": 16,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The MF tosses egg after egg at Wiwum who manages to dodge every single one of them, leaving the poor unfertilized chicken embryos to paint the ceiling yellow.",
+            "choices": ""
+        },
+        {
+            "id": 17,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Wiwum bonks the MF over the head with his frying pan with as much ease as Mario stomping on a Goomba.",
+            "choices": ""
+        },
+        {
+            "id": 18,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Happy",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 19,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Sad",
+            "text": "Waaaahh...",
+            "choices": ""
+        },
+        {
+            "id": 20,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "MF falls forward, landing on the floor with a hard thump as Wiwum stands above him.",
+            "choices": ""
+        },
+        {
+            "id": 21,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "William turns on the stove and places his frying pan on a burner. He nonchalantly pours some oil in a pan.",
+            "choices": ""
+        },
+        {
+            "id": 22,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The MF uses all his remaining strength to reach for his egg carton, opening it to find the final egg. In a last ditch attempt to stop his foe, he fires his final bullet.",
+            "choices": ""
+        },
+        {
+            "id": 23,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Angry",
+            "text": "GRAAAAHHH!!",
+            "choices": ""
+        },
+        {
+            "id": 24,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Without looking, Wiwum catches it. The MF's eyes widen in disbelief.",
+            "choices": ""
+        },
+        {
+            "id": 25,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "To add insult to injury, Wiwum cracks the egg into the pan. One-handed. The satisfying sizzle bounces off the kitchen walls, signifying the end of a hard-fought battle.",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Wiwum-3, MF-0.",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Sad",
+            "text": "Nyoooooo....",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Happy",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Did all that really just happen or did you disassociate too hard?",
+            "choices": ""
+        },
+        {
+            "id": 31,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Sad",
+            "text": "Quinoa, you have to stop him!",
+            "choices": ""
+        },
+        {
+            "id": 32,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Stop him from what? Making breakfast?",
+            "choices": ""
+        },
+        {
+            "id": 33,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Angry",
+            "text": "No! How is this breakfast? Does this LOOK like breakfast?",
+            "choices": ""
+        },
+        {
+            "id": 34,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Sad",
+            "text": "But I mean, I guess it sorta does though... especially since it's suppose to BE breakfast?",
+            "choices": ""
+        },
+        {
+            "id": 35,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "John...",
+            "choices": ""
+        },
+        {
+            "id": 36,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Happy",
+            "text": "But it's not breakfast but in a way it could be because of prior events involving that essay I wrote in sixth grade that I got top score in but - ",
+            "choices": ""
+        },
+        {
+            "id": 37,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "John.",
+            "choices": ""
+        },
+        {
+            "id": 38,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Angry",
+            "text": "It SHOULDN'T be but right now it is which is -",
+            "choices": ""
+        },
+        {
+            "id": 39,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "JOHN MF DINO.",
+            "choices": ""
+        },
+        {
+            "id": 40,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Sad",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 41,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Sad",
+            "text": "Why are you yelling at me? Wiwum's the one trying to dip cake in eggs!",
+            "choices": ""
+        },
+        {
+            "id": 42,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Ah, the answer you needed... As if it even made any sense.",
+            "choices": ""
+        },
+        {
+            "id": 43,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You turn to Wiwum who just finished plating his egg.",
+            "choices": ""
+        },
+        {
+            "id": 44,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Neutral",
+            "text": "Bread and eggs.",
+            "choices": ""
+        },
+        {
+            "id": 45,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "To someone on the outside, this wouldn't have helped. Unfortunately (or fortunately, depending how you look at it), you knew exactly what he was talking about.",
+            "choices": ""
+        },
+        {
+            "id": 46,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The great \"Cake is Bread\" debate of the Average Holy Haters til the End server that somehow took place in the genshin-sinners channel at 4 in the morning.",
+            "choices": ""
+        },
+        {
+            "id": 47,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The fact that it took place at 4 in the morning and involved the only MF you know are the only things that made sense of the event.",
+            "choices": ""
+        },
+        {
+            "id": 48,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "A historical moment in your group server for it gave birth to the cursed thread shower-thoughts where our intrusive thoughts win.",
+            "choices": ""
+        },
+        {
+            "id": 49,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "However, it also gave birth to the horrible act Wiwum is hellbent on committing: dipping cake in eggs as though it were a toasted piece of bread.",
+            "choices": ""
+        },
+        {
+            "id": 50,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Neither John or Bex will budge on their stance in the debate, but you think they both agree that this is wrong.",
+            "choices": ""
+        },
+        {
+            "id": 48,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "But do you?",
+            "choices": "Yes / No"
+        },
+        {
+            "id": 49,
+            "route": "Yes",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You help John off the floor.",
+            "choices": ""
+        },
+        {
+            "id": 50,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I may not be the most fond of chocolate, but I don't think it deserves such a yolky fate, William.",
+            "choices": ""
+        },
+        {
+            "id": 51,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Sad",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 52,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Happy",
+            "text": "Thank you. ",
+            "choices": ""
+        },
+        {
+            "id": 53,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Neutral",
+            "text": "Now hand over the eggs, Wiwum.",
+            "choices": ""
+        },
+        {
+            "id": 54,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Sad",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 55,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Happy",
+            "text": "Please?",
+            "choices": ""
+        },
+        {
+            "id": 56,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Wiwum reaches for the cake. You block him. Never in your life did you think you would be defending a chocolate cake from your best friend.",
+            "choices": ""
+        },
+        {
+            "id": 57,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I'm sorry, William, but I can't let you do this to yourself!",
+            "choices": ""
+        },
+        {
+            "id": 58,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The MF darts to the otherside of the cake, picking it up as careful as he can in a hurry.",
+            "choices": ""
+        },
+        {
+            "id": 59,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Sad",
+            "text": "It's not worth it, Wiwum! We're doing this for your own good!",
+            "choices": ""
+        },
+        {
+            "id": 60,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Think about the stomachache you'll get!",
+            "choices": ""
+        },
+        {
+            "id": 61,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Neutral",
+            "text": "John has tums.",
+            "choices": ""
+        },
+        {
+            "id": 62,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Neutral",
+            "text": "Oh yeah, I do have tums.",
+            "choices": ""
+        },
+        {
+            "id": 63,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Goddammit, John!",
+            "choices": ""
+        },
+        {
+            "id": 64,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Sad",
+            "text": "But it's true!",
+            "choices": ""
+        },
+        {
+            "id": 49,
+            "route": "No",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You step over John to stand next to William.",
+            "choices": ""
+        },
+        {
+            "id": 50,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Let him have his breakfast, John",
+            "choices": ""
+        },
+        {
+            "id": 51,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Happy",
+            "text": "!",
+            "choices": ""
+        },
+        {
+            "id": 52,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Angry",
+            "text": "What?",
+            "choices": ""
+        },
+        {
+            "id": 53,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Wiwum's a grown man who can make his own decisions and clearly he's hungry so he is going to eat.",
+            "choices": ""
+        },
+        {
+            "id": 54,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Angry",
+            "text": "Yeah. He's going to eat CHOCOLATE CAKE DIPPED IN EGGS.",
+            "choices": ""
+        },
+        {
+            "id": 55,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Noooo, bread dipped in eggs. Cake is just a form of bread after all and bread goes well with eggs.",
+            "choices": ""
+        },
+        {
+            "id": 56,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Angry",
+            "text": "You know that's not what I meant.",
+            "choices": ""
+        },
+        {
+            "id": 57,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I bet the bread would taste better toasted, Wiwum.",
+            "choices": ""
+        },
+        {
+            "id": 58,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Happy",
+            "text": "I think you make a fair point.",
+            "choices": ""
+        },
+        {
+            "id": 59,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "As Wiwum reaches for the cake, John scrambles to stand up, lunging himself between the cake and William.",
+            "choices": ""
+        },
+        {
+            "id": 60,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Angry",
+            "text": "No way. This is perfectly good cake and I'm not letting you ruin it",
+            "choices": ""
+        },
+        {
+            "id": 61,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I meaaann.... it's chocolate though soooo...",
+            "choices": ""
+        },
+        {
+            "id": 62,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Angry",
+            "text": "IT'S STILL A GOOD CAKE.",
+            "choices": ""
+        },
+        {
+            "id": 63,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The MF turns and quickly picks up the cake with as much care he could spare.",
+            "choices": ""
+        },
+        {
+            "id": 65,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "John runs away with the cake with William in tow.",
+            "choices": ""
+        },
+        {
+            "id": 66,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Well, he sort of runs away. It's more like they're chasing each other around the kitchen island. It feels like you're watching a Tom and Jerry episode.",
+            "choices": ""
+        },
+        {
+            "id": 67,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You wonder if an anvil is gonna fall from the sky now. Or maybe you'll get that classic banana peel slip.",
+            "choices": ""
+        },
+        {
+            "id": 68,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Angry",
+            "text": "What the fu-",
+            "choices": ""
+        },
+        {
+            "id": 69,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "As if on cue, you watch the MF slip on a stray yolk on the floor. Done in by his own fallen soldier.",
+            "choices": ""
+        },
+        {
+            "id": 70,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "As John falls, so does the cake. It goes flying in the air. All eyes witnessing the fall of man, of God, of CAKE, as gravity takes hold of the delectable treat.",
+            "choices": ""
+        },
+        {
+            "id": 71,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The cake hits the ground in front of John with a resounding SPLAT.",
+            "choices": ""
+        },
+        {
+            "id": 72,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Sad",
+            "text": "My little treat...",
+            "choices": ""
+        },
+        {
+            "id": 73,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Sad",
+            "text": "My breakfast...",
+            "choices": ""
+        },
+        {
+            "id": 74,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The silence is so loud.",
+            "choices": ""
+        },
+        {
+            "id": 75,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "John slowly gets up and turns to face William.",
+            "choices": ""
+        },
+        {
+            "id": 76,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Neutral",
+            "text": "So, um... Truce?",
+            "choices": ""
+        },
+        {
+            "id": 77,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Neutral",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 78,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Neutral",
+            "text": "Wiwum?",
+            "choices": ""
+        },
+        {
+            "id": 79,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Neutral",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 80,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Sad",
+            "text": "Truce, Wiwum...?",
+            "choices": ""
+        },
+        {
+            "id": 81,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Neutral",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 82,
+            "route": "",
+            "speakerName": "Wiwum",
+            "sprite": "Angry",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 83,
+            "route": "",
+            "speakerName": "MF",
+            "sprite": "Sad",
+            "text": "AAAAAHHHHHHHHHHH!!!",
+            "choices": ""
+        },
+        {
+            "id": 84,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 85,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Wiwum-4, MF-0.",
+            "choices": ""
+        },
+        {
+            "id": 86,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You decide it best to let the boys set aside their differences themselves and hightail it out of there and go back home. ",
+            "choices": ""
+        }
+    ]
+}

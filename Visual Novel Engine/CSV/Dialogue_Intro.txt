@@ -1,0 +1,4 @@
+Intro,Background Intro
+0,Mike,Neutral,Hello
+1,Mike,Angry,Fuck you
+2,Mike,Happy,Thank you

@@ -1,0 +1,268 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Before you can even ask who you should bring, you see Enoch ready up with Raiden Shogun and Dendro Traveler.",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "This looks like it's time for - ",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You confirm with your Barbara.",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "DPS Barbara.",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Happy",
+            "text": "Ikuyo.",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "He confirms with Fischl.",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "No healer team? Well, we could heal with food.",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Neutral",
+            "text": "We'll be fiiine.",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You guys were, in fact, not fine.",
+            "choices": ""
+        },
+        {
+            "id": 9,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Did you just die?",
+            "choices": ""
+        },
+        {
+            "id": 10,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Sad",
+            "text": "Maybe...",
+            "choices": ""
+        },
+        {
+            "id": 11,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Sad",
+            "text": "Nooooo...",
+            "choices": ""
+        },
+        {
+            "id": 12,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "But you have the Dendrooo...",
+            "choices": ""
+        },
+        {
+            "id": 13,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Sad",
+            "text": "Yeahh...",
+            "choices": ""
+        },
+        {
+            "id": 14,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Neutral",
+            "text": "What happened to your food, bro?",
+            "choices": ""
+        },
+        {
+            "id": 15,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "So, I didn't make any - ",
+            "choices": ""
+        },
+        {
+            "id": 16,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Sad",
+            "text": "Nooooo!",
+            "choices": ""
+        },
+        {
+            "id": 17,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "In that same moment, Zed perishes.",
+            "choices": ""
+        },
+        {
+            "id": 18,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Zed, no!",
+            "choices": ""
+        },
+        {
+            "id": 19,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Sad",
+            "text": "Ah, maybe I should equip my NRE...",
+            "choices": ""
+        },
+        {
+            "id": 20,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Are all my tomodachi dead...?",
+            "choices": ""
+        },
+        {
+            "id": 21,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "So, we're abandoning, right?",
+            "choices": ""
+        },
+        {
+            "id": 22,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "No, no, I got this, guys. DPS Barbara, right here.",
+            "choices": ""
+        },
+        {
+            "id": 23,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Neutral",
+            "text": "Ikuyo??",
+            "choices": ""
+        },
+        {
+            "id": 24,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You look at Raiden's health. Less than half, so there's some hope.",
+            "choices": ""
+        },
+        {
+            "id": 25,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Right?",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "With an unconventional Barbara and a dream, you IKUYO and do you ganbarebest!",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "And suprisingly, it pays off as the petrified flower blooms in front of you.",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Happy",
+            "text": "Ayo? Did that just work?",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Happy",
+            "text": "Ikuyo DPS Barbara!",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Wow, I actually didn't think that was gonna happen.",
+            "choices": ""
+        },
+        {
+            "id": 31,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "New meta?",
+            "choices": ""
+        },
+        {
+            "id": 32,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Alright, guys, next boss? All me. Bringing Barbara.",
+            "choices": ""
+        }
+    ]
+}

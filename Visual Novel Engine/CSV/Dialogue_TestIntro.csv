@@ -1,0 +1,14 @@
+Route Key,,,,,
+Setting,,,,,
+ID,Route,Speaker Name,Sprite,Text,Choices
+0,,Character A,,Text.,
+1,,Character A,,More text.,
+2,,Character B,,New text.,
+3,,Character C,,What will you choose?,A / B / C
+4,A,Character C,,You've chosen A.,
+4,B,Character C,,You've chosen B.,
+4,C,Character C,,You've chosen C.,
+5,,Character A,,You've reach back to a merging point.,
+6,,Joyce,,So what will it be?,Belgium waffles / Bacon and eggs
+7,Belgium waffles,Max,,"Belgium waffles,fgfd",
+7,Bacon and eggs,Max,,Bacon and eggs.,

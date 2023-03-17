@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01147d5f31b907d45be9cfaabafee123, type: 3}
+  m_Name: RouteKeyLinkSO_Enoch
+  m_EditorClassIdentifier: 
+  _value:
+    _start: Introduction
+    _end: 'How to Meta Game 101: Quinoa''s Training Arc, Intro'
+    _choice: Enoch

@@ -1,0 +1,140 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The pants goblin unfortunately won today. However, that is okay, because you like skirts more anyway. More comfy.",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You sit in the back of a car next to your fellow not-men, Bex, while your other fellow not-men, Sam, rides in the front.",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "What you didn't expect though was an actual man to be driving the car. Wasn't this a Not-Men meeting?",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "He wanted to come and be our fourth.",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Neutral",
+            "text": "And I said he could as long as he drove.",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Neutral",
+            "text": "But, mainly, it's not in a good area, so, yeah, I'm coming.",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Wait, what are we doing?",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Happy",
+            "text": "VR Phasmophobia.",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Happy",
+            "text": "Heh.",
+            "choices": ""
+        },
+        {
+            "id": 9,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Huh, really?",
+            "choices": ""
+        },
+        {
+            "id": 10,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "Really...",
+            "choices": ""
+        },
+        {
+            "id": 11,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Neutral",
+            "text": "I found a little spot that does VR sessions for an hour and they're doing a sale today.",
+            "choices": ""
+        },
+        {
+            "id": 12,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Happy",
+            "text": "And they have Phasmophobia as one of the free games you can do.",
+            "choices": ""
+        },
+        {
+            "id": 13,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "Woo...",
+            "choices": ""
+        },
+        {
+            "id": 14,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "So how did - ",
+            "choices": ""
+        },
+        {
+            "id": 15,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "Sam decided to cash in their I.O.U. that I gave them in high school.",
+            "choices": ""
+        },
+        {
+            "id": 16,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Happy",
+            "text": "Who would've thought a memento could come so handy?",
+            "choices": ""
+        }
+    ]
+}

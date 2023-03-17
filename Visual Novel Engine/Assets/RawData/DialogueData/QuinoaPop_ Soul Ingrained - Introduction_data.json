@@ -1,0 +1,508 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "A young grain stands in her bedroom. It just so happens that today, the 7th of March, 2023, is this young grain's birthday. Though it was twenty-three years ago she was given life, it is only today she will be given a name!",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "What will the name of this young grain be?",
+            "choices": "Maryann / Quinoa"
+        },
+        {
+            "id": 2,
+            "route": "Maryann",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Maryann",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "Maryann",
+            "speakerName": "",
+            "sprite": "",
+            "text": "TRY AGAIN, SMARTASS",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "Maryann",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "Maryann",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You just wanted to see what would happen, huh? Come on, you know the drill. What's your name?",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "Maryann",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Quinoa",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "Maryann",
+            "speakerName": "",
+            "sprite": "",
+            "text": "There we go!",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "Quinoa",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Quinoa",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "Quinoa",
+            "speakerName": "",
+            "sprite": "",
+            "text": "On the first try? You didn't cheat, did you? Either way, right ans - I mean - GOOD choice.",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Your name is QUINOA. As previously mentioned it is your BIRTHDAY. You have a variety of INTERESTS. You like to CROCHET and COSPLAY, combining the two to be a RARE CROCHET COSPLAYER. ",
+            "choices": ""
+        },
+        {
+            "id": 9,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You also like to play GAMES sometimes and have a fondness for VISUAL NOVELS and TOXIC WOMEN. Oh, and can't forget about the TWINKS!",
+            "choices": ""
+        },
+        {
+            "id": 10,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "But your number one boy will always be CLAUDE from FIRE EMBLEM: THREE HOUSES.",
+            "choices": ""
+        },
+        {
+            "id": 11,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Okay, I think that's enough. Surely, you've caught the reference by now.",
+            "choices": ""
+        },
+        {
+            "id": 12,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "(Phone noises)",
+            "choices": ""
+        },
+        {
+            "id": 13,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Your phone shrieks rhythmically at you! Perhaps it's your good friends bombarding you with happy birthday greetings. You check your phone.",
+            "choices": ""
+        },
+        {
+            "id": 14,
+            "route": "",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "4 missed call(s) from MF",
+            "choices": ""
+        },
+        {
+            "id": 15,
+            "route": "",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "1 Discord message from Mahla: Genshin dailies??",
+            "choices": ""
+        },
+        {
+            "id": 16,
+            "route": "",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "2 missed call(s) from Mike",
+            "choices": ""
+        },
+        {
+            "id": 17,
+            "route": "",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "1 text from Mike: You hate me.",
+            "choices": ""
+        },
+        {
+            "id": 18,
+            "route": "",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "1 text from Bex: calling a mighty not-men meeting!!",
+            "choices": ""
+        },
+        {
+            "id": 19,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "None of them are happy birthday greetings.",
+            "choices": ""
+        },
+        {
+            "id": 20,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": ":(",
+            "choices": ""
+        },
+        {
+            "id": 21,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You wonder if they forgot.",
+            "choices": ""
+        },
+        {
+            "id": 22,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "D:",
+            "choices": ""
+        },
+        {
+            "id": 23,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "No, they couldn't have! They're your good friends after all and it's still early in the day.",
+            "choices": ""
+        },
+        {
+            "id": 24,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You shake off your previous feelings of dismay and decide to check on your friends because YOU are GOOD FRIEND QUINOA!",
+            "choices": ""
+        },
+        {
+            "id": 25,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Who will you check on first?",
+            "choices": "MF / Enoch / Mike / Bex"
+        },
+        {
+            "id": 26,
+            "route": "MF",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You decide to call back John.",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "MF",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "MF",
+            "speakerName": "",
+            "sprite": "",
+            "text": "After remembering the phone calls you've had with him while he was driving, you decide to text him instead.",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "MF",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "You: whats up",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "MF",
+            "speakerName": "",
+            "sprite": "",
+            "text": "A long silence passes...",
+            "choices": ""
+        },
+        {
+            "id": 31,
+            "route": "MF",
+            "speakerName": "",
+            "sprite": "",
+            "text": "...",
+            "choices": ""
+        },
+        {
+            "id": 32,
+            "route": "MF",
+            "speakerName": "",
+            "sprite": "",
+            "text": "This fucker...",
+            "choices": ""
+        },
+        {
+            "id": 33,
+            "route": "MF",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "MF: HENSLP[",
+            "choices": ""
+        },
+        {
+            "id": 34,
+            "route": "MF",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "MF: EGGSDBRAED",
+            "choices": ""
+        },
+        {
+            "id": 35,
+            "route": "MF",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "MF: C A KE",
+            "choices": ""
+        },
+        {
+            "id": 36,
+            "route": "MF",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "MF: WIIIWWWUUUUUUMMM",
+            "choices": ""
+        },
+        {
+            "id": 37,
+            "route": "MF",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Uh oh.",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "Enoch",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You respond to Enoch.",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "Enoch",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You: i can run some domains",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "Enoch",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Mahla: Pog",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "Enoch",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Mahla: You and Zed can join my world. I have Mondstadt dailies",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "Enoch",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You open Genshin Impact on your PC. There's an update. Your files are being verified.",
+            "choices": ""
+        },
+        {
+            "id": 31,
+            "route": "Enoch",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You sit back and exhale a sigh, slowly disassociating as you stare at the precentage bar, waiting for it to finish.",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "Mike",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You hesitantly call back Mike",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "Mike",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Hel -",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "Mike",
+            "speakerName": "Mike",
+            "sprite": "",
+            "text": "Can't believe you ignored my call. What the fuck, Quinoa.",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "Mike",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I was -",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "Mike",
+            "speakerName": "Mike",
+            "sprite": "",
+            "text": "You really do hate us, huh, Quinoa?",
+            "choices": ""
+        },
+        {
+            "id": 31,
+            "route": "Mike",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "No, I -",
+            "choices": ""
+        },
+        {
+            "id": 32,
+            "route": "Mike",
+            "speakerName": "Mike",
+            "sprite": "",
+            "text": "If we're really your friends, you would head to Carlos' right now with your flute.",
+            "choices": ""
+        },
+        {
+            "id": 33,
+            "route": "Mike",
+            "speakerName": "",
+            "sprite": "",
+            "text": "He hung up the phone.",
+            "choices": ""
+        },
+        {
+            "id": 34,
+            "route": "Mike",
+            "speakerName": "",
+            "sprite": "",
+            "text": "A little disgruntled but not surprised, you search for your flute that you hopefully still have.",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "Bex",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You reply to Bex.",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "Bex",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "You: hello fellow mighty not-men here",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "Bex",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "Bex: u doin anything right now quinoa?",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "Bex",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You look at your latest crochet Paimon cosplay, still needing the extra details. Unfinished.",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "Bex",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "You: noooo",
+            "choices": ""
+        },
+        {
+            "id": 31,
+            "route": "Bex",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "Bex: perfect ^^ sam and i will get u in 10 min",
+            "choices": ""
+        },
+        {
+            "id": 32,
+            "route": "Bex",
+            "speakerName": "Phone",
+            "sprite": "",
+            "text": "You: a",
+            "choices": ""
+        },
+        {
+            "id": 33,
+            "route": "Bex",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You hurriedly steal your pants back from the pants goblin to be ready in 10 minutes.",
+            "choices": ""
+        }
+    ]
+}

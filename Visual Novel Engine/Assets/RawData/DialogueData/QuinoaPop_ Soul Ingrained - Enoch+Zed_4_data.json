@@ -1,0 +1,332 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You believe you went through a PTSD episode running that domain again.",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Neutral",
+            "text": "See, that wasn't that bad.",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Angry",
+            "text": "But these artifacts are.",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Sad",
+            "text": "Well... yeah... mine are too.",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Typical Genshin player things... The harvest was not bountiful this season... Like all the other seasons.",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You look through your artifacts.",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "Should we run this again?",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Neutral",
+            "text": "I dunno. Did you get anything worth rolling on, Quinoa?",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Ehh... I don't think - Oh!",
+            "choices": ""
+        },
+        {
+            "id": 9,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You see two Blizzard Strayer circlets. Both have Crit DMG as their main stat.",
+            "choices": ""
+        },
+        {
+            "id": 10,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The first one has 4 substats: Crit Rate, ATK%, Flat HP, and Elemental Mastery.",
+            "choices": ""
+        },
+        {
+            "id": 11,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "The second one has 3 substats: Crit Rate, Elemental Mastery, and Flat ATK.",
+            "choices": ""
+        },
+        {
+            "id": 12,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You show the two off in genshin-sinners.",
+            "choices": ""
+        },
+        {
+            "id": 13,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Happy",
+            "text": "Ooooh!",
+            "choices": ""
+        },
+        {
+            "id": 14,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Happy",
+            "text": "Pog.",
+            "choices": ""
+        },
+        {
+            "id": 15,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Alright, Quinoa, we're bringing gacha to visual novels now. You thought you could escape? No. This gacha shit a lifestyle now.",
+            "choices": ""
+        },
+        {
+            "id": 16,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Which one do you roll on?",
+            "choices": "First (4 substats) / Second (3 substats)"
+        },
+        {
+            "id": 17,
+            "route": "First (4 substats)",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Your first rolls into Flat HP.",
+            "choices": ""
+        },
+        {
+            "id": 18,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "Uh oh.",
+            "choices": ""
+        },
+        {
+            "id": 19,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Neutral",
+            "text": "There's still a chance!",
+            "choices": ""
+        },
+        {
+            "id": 20,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "There was no chance.",
+            "choices": ""
+        },
+        {
+            "id": 21,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "All 5 of those chances rolled into Flat HP. Is this even better than your current circlet?",
+            "choices": ""
+        },
+        {
+            "id": 22,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "What the heck.",
+            "choices": ""
+        },
+        {
+            "id": 23,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Angry",
+            "text": "Unpog.",
+            "choices": ""
+        },
+        {
+            "id": 24,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Angry",
+            "text": "Bruh.",
+            "choices": ""
+        },
+        {
+            "id": 25,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Sad",
+            "text": "Well, at least it wasn't defense.",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "Hmmm, kinda sounds like copium.",
+            "choices": ""
+        },
+        {
+            "id": 17,
+            "route": "Second (3 substats)",
+            "speakerName": "",
+            "sprite": "",
+            "text": "It rolls into ATK%.",
+            "choices": ""
+        },
+        {
+            "id": 18,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Happy",
+            "text": "Oh?",
+            "choices": ""
+        },
+        {
+            "id": 19,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Happy",
+            "text": "No defense? Kinda pog?",
+            "choices": ""
+        },
+        {
+            "id": 20,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Okay, okay...",
+            "choices": ""
+        },
+        {
+            "id": 21,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You continue rolling.",
+            "choices": ""
+        },
+        {
+            "id": 22,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "It rolls into Crit Rate.",
+            "choices": ""
+        },
+        {
+            "id": 23,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Happy",
+            "text": "Pog.",
+            "choices": ""
+        },
+        {
+            "id": 24,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Then it rolls into ATK%.",
+            "choices": ""
+        },
+        {
+            "id": 25,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Happy",
+            "text": "Wow!",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Finally, it rolls into Crit Rate.",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Happy",
+            "text": "Oh, shit.",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Happy",
+            "text": "Very nice!",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I love playing games with my tomodachi.",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "On that note, you say goodbye and log off.",
+            "choices": ""
+        }
+    ]
+}

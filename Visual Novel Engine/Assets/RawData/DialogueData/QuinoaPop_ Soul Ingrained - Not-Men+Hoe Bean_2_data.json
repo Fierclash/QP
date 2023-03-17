@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "I already hate this.",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Neutral",
+            "text": "We just loaded into the truck.",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Angry",
+            "text": "AND?",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Everyone grab your virginity helmets!",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Happy",
+            "text": "Oh yeah, how could we forget? I'll get the keys too. Is everyone ready?",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "",
+            "speakerName": "Bex",
+            "sprite": "Sad",
+            "text": "No.",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "",
+            "speakerName": "Hoe Bean",
+            "sprite": "Happy",
+            "text": "Yes!",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I'm gonna punch a ghost!",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "Sam",
+            "sprite": "Happy",
+            "text": "Alright, everybody, hold hands and let's go!",
+            "choices": ""
+        }
+    ]
+}

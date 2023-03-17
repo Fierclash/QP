@@ -1,0 +1,300 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "And somehow in some cruel way, all your tomodachi perish, leaving you as the sole survivor... again.",
+            "choices": ""
+        },
+        {
+            "id": 1,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Tomodachiiiii.....",
+            "choices": ""
+        },
+        {
+            "id": 2,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Sad",
+            "text": "Barbara, ikuyo!",
+            "choices": ""
+        },
+        {
+            "id": 3,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "A.",
+            "choices": ""
+        },
+        {
+            "id": 4,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You're left running around Zhongli's dog, doing your ganbarebest. You contribute your survival to that time you had farm this guy for Yoimiya. She's pretty.",
+            "choices": ""
+        },
+        {
+            "id": 5,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Neutral",
+            "text": "Maybe, I should've brought by C6 Zhongli.",
+            "choices": ""
+        },
+        {
+            "id": 6,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "You have him at C6??",
+            "choices": ""
+        },
+        {
+            "id": 7,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Neutral",
+            "text": "This is the whale account, man.",
+            "choices": ""
+        },
+        {
+            "id": 8,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Sad",
+            "text": "Aw man.",
+            "choices": ""
+        },
+        {
+            "id": 9,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "Neutral",
+            "text": "How could this happen again?",
+            "choices": ""
+        },
+        {
+            "id": 10,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "Listen, I thought he was gonna go hydro, but he ended up going cryo and that messed me up so my Ganyu just got a little too close.",
+            "choices": ""
+        },
+        {
+            "id": 11,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I should build my Ganyu.",
+            "choices": ""
+        },
+        {
+            "id": 12,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "You have a Ganyu?",
+            "choices": ""
+        },
+        {
+            "id": 13,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Neutral",
+            "text": "And you don't have her built? She's the meta!",
+            "choices": ""
+        },
+        {
+            "id": 14,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I mean, I do, but her circlet could be better.",
+            "choices": ""
+        },
+        {
+            "id": 15,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "",
+            "text": "Is it crit?",
+            "choices": ""
+        },
+        {
+            "id": 16,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Yeah... with defense substats that most of it rolled into...",
+            "choices": ""
+        },
+        {
+            "id": 17,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "",
+            "text": "Oof.",
+            "choices": ""
+        },
+        {
+            "id": 18,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "",
+            "text": "So what I'm hearing is... Blizzard Strayer domain.",
+            "choices": ""
+        },
+        {
+            "id": 19,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "",
+            "text": "Sure!",
+            "choices": ""
+        },
+        {
+            "id": 20,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I mean, I guessss...",
+            "choices": ""
+        },
+        {
+            "id": 21,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You fucking hate that domain.",
+            "choices": ""
+        },
+        {
+            "id": 22,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "So, we're abandoning this time, right?",
+            "choices": ""
+        },
+        {
+            "id": 23,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Happy",
+            "text": "Nah, look, Quinoa's got it.",
+            "choices": ""
+        },
+        {
+            "id": 24,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Uh...",
+            "choices": ""
+        },
+        {
+            "id": 25,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Well, Quinoa, do you got it?",
+            "choices": "Abandon / IKUYO"
+        },
+        {
+            "id": 26,
+            "route": "Abandon",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Before you can hit the button, you perish.",
+            "choices": ""
+        },
+        {
+            "id": 26,
+            "route": "IKUYO",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You charge head on, channeling your inner ikuyo to fight!",
+            "choices": ""
+        },
+        {
+            "id": 27,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "Only to get one-shotted by a massive jump.",
+            "choices": ""
+        },
+        {
+            "id": 28,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You watch your Barbara get dusted.",
+            "choices": ""
+        },
+        {
+            "id": 29,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "Welp.",
+            "choices": ""
+        },
+        {
+            "id": 30,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Sad",
+            "text": "Unlucky.",
+            "choices": ""
+        },
+        {
+            "id": 31,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Sad",
+            "text": "RIP Barbara.",
+            "choices": ""
+        },
+        {
+            "id": 32,
+            "route": "",
+            "speakerName": "Enoch",
+            "sprite": "Neutral",
+            "text": "Sooo Blizzard Strayer?",
+            "choices": ""
+        },
+        {
+            "id": 33,
+            "route": "",
+            "speakerName": "Zed",
+            "sprite": "Happy",
+            "text": "Let's go!",
+            "choices": ""
+        },
+        {
+            "id": 34,
+            "route": "",
+            "speakerName": "You",
+            "sprite": "",
+            "text": "I guess....",
+            "choices": ""
+        },
+        {
+            "id": 35,
+            "route": "",
+            "speakerName": "",
+            "sprite": "",
+            "text": "You begrudgingly transport to Dragonspine.",
+            "choices": ""
+        }
+    ]
+}
